@@ -143,7 +143,7 @@ return [
 
         'short_code' => '600256',
 
-        'test_phone_number' => '254708374149',
+        'test_phone_number' => '254702879336',
 
         'default_command_id' => 'CustomerPayBillOnline'
     ],
